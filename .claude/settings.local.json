@@ -8,7 +8,15 @@
       "Bash(mkdir -p \"C:\\\\Users\\\\83763\\\\Desktop\\\\CCAgent\\\\AIvideo\\\\.claude\\\\skills\\\\storyboard-director\\\\references\")",
       "Bash(mkdir -p \"C:\\\\Users\\\\83763\\\\Desktop\\\\CCAgent\\\\AIvideo\\\\.claude\\\\skills\\\\storyboard-director\\\\examples\")",
       "Bash(git add *)",
-      "Bash(git commit -m '更新剧本数据库与分镜技能 *)"
+      "Bash(git commit -m '更新剧本数据库与分镜技能 *)",
+      "PowerShell(Get-ChildItem \"剧本文件夹\" -File | ForEach-Object { $_.FullName })",
+      "PowerShell(Get-ChildItem \".\\\\剧本文件夹\" -Filter \"第 13 集.txt\" | ForEach-Object { Get-Content $_.FullName })",
+      "PowerShell(Get-Content *)",
+      "PowerShell(& \"C:\\\\Program Files\\\\Git\\\\cmd\\\\git.exe\" status)",
+      "PowerShell(winget install *)",
+      "PowerShell(Invoke-WebRequest -Uri \"https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.1/Git-2.55.0-64-bit.exe\" -OutFile \"$env:TEMP\\\\GitInstaller.exe\")",
+      "Bash(git status *)",
+      "Bash(git *)"
     ]
   }
 }
