@@ -103,7 +103,7 @@
       "question": "你用的是什么工具？",
       "header": "工具",
       "options": [
-        {"label": "Claude Code", "description": "命令行工具"},
+        {"label": "Codex CLI", "description": "命令行工具"},
         {"label": "其他", "description": "Cursor/Trae 等"}
       ],
       "multiSelect": false
@@ -246,8 +246,8 @@
 ```
 问题: "Skill 作用域？"
 选项:
-- "项目级 - 存放在 ./.claude/skills/"
-- "全局级 - 存放在 ~/.claude/skills/"
+- "项目级 - 存放在 ./.agents/skills/"
+- "全局级 - 存放在 ~/.codex/skills/"
 ```
 
 ### 确认类
