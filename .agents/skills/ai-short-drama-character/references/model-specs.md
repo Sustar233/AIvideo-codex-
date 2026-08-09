@@ -1,6 +1,6 @@
 # 生图模型规格说明
 
-## GPT Image 2 (DALL·E 3)
+## GPT Image 系列
 
 ### 特性
 - 最佳输入：自然语言描述
@@ -26,7 +26,7 @@ The setting is [scene description].
 
 ---
 
-## Seedream 4.5 (Kling AI)
+## Seedream 系列
 
 ### 特性
 - 最佳输入：关键词 + 自然语言混合
@@ -77,25 +77,6 @@ illustration        # 插画
 
 ---
 
-## 负面提示词通用库
+## 负面提示词
 
-```
-ugly, deformed, noisy, blurry, distorted, 
-out of focus, bad anatomy, extra limbs, 
-disfigured, poorly drawn hands, poorly drawn faces, 
-mutation, mutated, extra fingers, wrong number of fingers, 
-bad proportions, missing limbs, floating limbs, 
-disconnected limbs, malformed hands, long neck, 
-long body, cloned face, long face, fused fingers, 
-too many fingers, long neck, ugly, bad hands, 
-missing fingers, extra digit, third hand, 
-conjoined fingers, too many arms, extra leg, 
-malformed feet, extra foot, poorly drawn feet, 
-extra toe, too many toes, watermark, signature, 
-text, error, username, cropping, worst quality, 
-low quality, jpeg artifacts, out of frame, 
-mutated, extra limb, ugly, disgusting, poorly drawn, 
-amputation, bad anatomy, disfigured, deformed, 
-cross-eyed, blurred, duplicate, morbid, 
-fleshy colors, 3d, cgi, render
-```
+默认不输出。只有用户明确要求且目标平台支持时，才根据当前主体提供简短、针对性的规避项；不得把 `3d`、`cgi` 或 `render` 列为负面词。

@@ -1,4 +1,4 @@
-# 提示词模板库
+# 3D 动漫提示词模板库
 
 ## 通用结构模板
 
@@ -10,7 +10,7 @@ B: 面部（五官 + 发型 + 妆容 + 表情）
 C: 服装（上装 + 下装 + 鞋子 + 配饰）
 D: 场景（环境 + 背景元素）
 E: 光影（光源 + 色调 + 氛围）
-F: 技术（质量 + 风格 + 渲染参数）
+F: 技术（3D动漫风格 + 材质 + 光影 + 渲染质感）
 ```
 
 ---
@@ -23,8 +23,8 @@ a beautiful young woman, 20 years old, slim figure,
 standing elegantly, long black hair with bangs, 
 big sparkling eyes, gentle smile, soft pink lips, 
 wearing casual chic outfit, white blouse and denim skirt, 
-urban street background, soft daylight, warm tone, 
-highly detailed, 8k, photorealistic
+pure white background, soft studio lighting, warm tone,
+stylized 3D anime, high-detail CG character, realistic hair strands, no obvious 2D outlines
 ```
 
 ### 成熟御姐型
@@ -33,8 +33,8 @@ an attractive mature woman, 30 years old, curvy figure,
 confident posture, shoulder-length wavy hair, 
 sharp eyebrows, red lips, mysterious gaze, 
 elegant business suit, designer handbag, luxury watch, 
-office building lobby, golden hour lighting, 
-cinematic, professional photography, vogue style
+pure white background, cinematic studio lighting,
+realistic 3D anime, physically based materials, high-detail CG character
 ```
 
 ### 古风美人型
@@ -42,8 +42,8 @@ cinematic, professional photography, vogue style
 a stunning ancient chinese beauty, 22 years old, 
 graceful figure, flowing hanfu dress, intricate embroidery, 
 long black hair with gold hairpins, delicate makeup, 
-lotus pond garden background, soft misty atmosphere, 
-traditional chinese painting style, elegant and ethereal
+pure white background, soft volumetric lighting,
+oriental fantasy 3D anime, detailed fabric simulation, elegant and ethereal
 ```
 
 ---
@@ -55,8 +55,8 @@ traditional chinese painting style, elegant and ethereal
 a handsome man, 32 years old, tall muscular build, 
 confident stance, short neat hairstyle, sharp jawline, 
 intense gaze, wearing tailored black suit, white shirt, 
-expensive tie, skyscraper office with city view, 
-dramatic lighting, movie poster quality, photorealistic, 8k
+formal tie, pure white background,
+dramatic studio lighting, cinematic realistic 3D anime, high-detail CG character
 ```
 
 ### 温润书生型
@@ -64,8 +64,8 @@ dramatic lighting, movie poster quality, photorealistic, 8k
 a gentle young man, 24 years old, slender build, 
 calm expression, medium black hair, mild eyes, 
 slight smile, wearing casual linen shirt and pants, 
-library or study room background, warm lamplight, 
-peaceful atmosphere, soft focus, semi-realistic
+pure white background, warm soft studio light,
+peaceful atmosphere, stylized semi-realistic 3D anime, clean materials
 ```
 
 ### 古风侠客型
@@ -73,8 +73,8 @@ peaceful atmosphere, soft focus, semi-realistic
 a heroic ancient chinese warrior, 28 years old, 
 athletic physique, determined expression, long hair tied up, 
 traditional martial arts clothing, sword at waist, 
-mountain peak background, sunset lighting, 
-dramatic composition, chinese ink painting influence
+pure white background, dramatic rim lighting,
+oriental fantasy 3D anime, detailed cloth and metal materials
 ```
 
 ---
@@ -106,6 +106,6 @@ shallow depth of field       # 浅景深
 ```
 masterpiece, best quality, ultra-detailed, 
 8k resolution, highly detailed, intricate details, 
-professional photography, award-winning, 
-trending on artstation, studio quality rendering
+high-detail 3D anime character, physically based materials,
+cinematic volumetric lighting, polished real-time CG rendering
 ```

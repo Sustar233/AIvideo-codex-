@@ -1,17 +1,16 @@
-# 通用生图风格指南
+# 通用 3D 动漫视觉约束模板
 
-所有生成的提示词必须包含以下质量标签前缀和后缀：
+本文件只提供没有项目美术规范时的默认值。当前项目设定和用户要求始终优先。
 
-## 基础质感
-masterpiece, best quality, 8k, highly detailed, cinematic lighting, unreal engine 5 render style.
+## 默认基底
 
-## 动漫风格
-anime style, cel shading, vibrant colors, Makoto Shinkai style.
+高质量3D动漫风格，电影级三维动画质感，高精角色模型，清晰材质层次，可信的皮肤与发丝表现，体积光影，稳定景深与空间纵深，无明显2D勾线，次世代实时渲染质感。
 
-## 负面提示词
-low quality, worst quality, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, jpeg artifacts, signature, watermark, username, blurry.
+## 自适应规则
 
-## 世界观视觉约束
-- **本剧不包含等级勋章/肩章等直接等级标识**，生成人设图提示词时不要添加"X级勋章""X级肩章"等描述。角色等级是背景设定，不应视觉化。
-- **服装以现代日常装为主**，与当代普通服饰区别不大，不要刻意做废土朋克、破洞、做旧、战损等处理。部分角色（如军队人员）可穿制式作战服/制服，但款式以简洁实用为主。
-- 风格关键词保持现代感，避免 over-design
+- 服装按时代、地域、文化、职业和剧情状态设计，不预设现代、古风、废土或科幻。
+- 身份、等级和阵营仅在当前设定要求时转化为视觉标识。
+- 颜色、能力源点、武器、体型和尺度关系必须跟随当前项目资料。
+- 人设图默认纯白背景；场景图、气氛图和剧情画面按任务需要设置背景。
+- 画幅和平台读取当前任务；未指定时图像按竖向角色设定图、视频按16:9横屏处理。
+- 默认不输出 negative prompt；平台需要或用户明确要求时再提供。

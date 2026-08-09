@@ -1,6 +1,7 @@
 # Codex project
 .codex/
 __pycache__/
+**/.backups/
 *.pyc
 node_modules/
 .DS_Store

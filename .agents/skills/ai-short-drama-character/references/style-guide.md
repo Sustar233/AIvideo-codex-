@@ -1,8 +1,8 @@
-# 视觉风格指南
+# 3D 动漫视觉风格指南
 
 ## 主流 AI 绘画风格详解
 
-### 韩漫风 (Korean Webtoon)
+### 韩漫质感 3D 动漫
 **适用场景**: 甜宠、都市情感、校园青春
 
 **视觉特征**:
@@ -10,54 +10,54 @@
 - 眼睛：大而明亮，高光明显
 - 皮肤：白皙光滑，无瑕疵
 - 色彩：粉嫩甜美，饱和度偏高
-- 线条：圆润柔和
+- 造型：圆润柔和，保持三维体积与可信材质
 
 **关键词模板**:
 ```
-korean webtoon style, manhwa, large expressive eyes, 
-soft pastel colors, anime-influenced, cute proportions, 
-detailed hair strands, cel shading
+stylized 3D anime, korean webtoon-inspired character design, large expressive eyes,
+soft pastel colors, cute proportions, detailed 3D hair strands,
+soft physically based materials, cinematic volumetric lighting, no obvious 2D outlines
 ```
 
 ---
 
-### 日系厚涂 (Japanese Digital Painting)
+### 东方幻想 3D 动漫
 **适用场景**: 古风、仙侠、玄幻
 
 **视觉特征**:
-- 笔触：可见的厚重笔触
+- 造型：东方幻想轮廓，保持清晰三维结构
 - 色彩：丰富饱满，对比强烈
 - 光影：戏剧化，有体积感
 - 细节：华丽繁复
 
 **关键词模板**:
 ```
-japanese digital painting, thick brush strokes, 
-vibrant colors, dramatic lighting, detailed costume design, 
-fantasy art, artstation trending, concept art
+oriental fantasy 3D anime, refined costume structure,
+rich but controlled colors, dramatic volumetric lighting,
+detailed fabric materials, cinematic CG character design, no obvious 2D outlines
 ```
 
 ---
 
-### 写实风 (Photorealistic)
+### 电影级写实 3D 动漫
 **适用场景**: 悬疑、现实题材、年代剧
 
 **视觉特征**:
-- 质感：照片级真实
+- 质感：写实材质与动漫化比例平衡
 - 皮肤：有纹理、毛孔、自然瑕疵
 - 光影：电影级布光
 - 色彩：低饱和，真实色温
 
 **关键词模板**:
 ```
-photorealistic, cinematic photography, 8k, 
-realistic skin texture, film grain, depth of field, 
-professional makeup, vogue magazine quality
+cinematic realistic 3D anime, stylized realism, detailed skin and hair materials,
+physically based rendering, volumetric lighting, cinematic depth of field,
+high-fidelity CG character, no obvious 2D outlines
 ```
 
 ---
 
-### 轻写实 (Semi-realistic)
+### 风格化轻写实 3D 动漫
 **适用场景**: 职场、都市剧
 
 **视觉特征**:
@@ -67,14 +67,14 @@ professional makeup, vogue magazine quality
 
 **关键词模板**:
 ```
-semi-realistic, stylized realism, 
-modern fashion illustration, clean lines, 
-contemporary aesthetic, editorial look
+stylized semi-realistic 3D anime, clean silhouette,
+soft physically based materials, contemporary character design,
+cinematic lighting, polished real-time CG render
 ```
 
 ---
 
-### 国潮插画 (Chinese Illustration)
+### 国潮 3D 动漫
 **适用场景**: 国风、非遗、传统文化题材
 
 **视觉特征**:
@@ -84,7 +84,7 @@ contemporary aesthetic, editorial look
 
 **关键词模板**:
 ```
-chinese traditional illustration, guochao style, 
-oriental aesthetics, chinese color palette, 
-ink wash painting influence, modern chinese art
+guochao 3D anime, oriental aesthetics, chinese color palette,
+traditional motif translated into 3D materials and silhouette,
+cinematic CG render, layered volumetric lighting
 ```
