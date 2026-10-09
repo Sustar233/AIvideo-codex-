@@ -14,6 +14,8 @@
 
 ## 当前项目
 
+- 《鹿城》（2D 搞笑动画）：[`../鹿城/项目资料归纳.md`](../鹿城/项目资料归纳.md)。用户于 2026-10-09 指定本次接管聊天后续负责该项目；不改变其他聊天的项目归属。
+- 《鹿城》规则与状态：[`projects/lucheng/project-rules.md`](projects/lucheng/project-rules.md)、[`projects/lucheng/status.md`](projects/lucheng/status.md)。
 - 《琥珀之城》：[`projects/amber-city/project-rules.md`](projects/amber-city/project-rules.md)
 - 《琥珀之城》状态：[`projects/amber-city/status.md`](projects/amber-city/status.md)
 - 《琥珀之城》分镜缓存：[`storyboard-cache/amber-city/`](storyboard-cache/amber-city/)
